@@ -1,3 +1,7 @@
+Here's the README file format for your "Core Java Practice Programs" repository:
+
+---
+
 # Core Java Practice Programs
 
 ## Overview
@@ -7,8 +11,7 @@ This repository contains all the practice programs and exercises completed durin
 - **Course**: Full-Stack Java Development
 - **Focus**: Core Java
 - **Duration**: Ongoing
-- **Instructor**: [Instructor's Name or Platform] (optional)
-- **Learning Platform**: [Platform Name] (optional)
+- **Training Provided By**: College Training Section
 
 ## Contents
 The repository includes various Java programs categorized by topics, such as:
@@ -18,7 +21,7 @@ The repository includes various Java programs categorized by topics, such as:
 - **Exception Handling**: Handling exceptions and errors in Java programs.
 - **File I/O**: Reading from and writing to files.
 - **Multithreading**: Basics of threads and concurrent programming.
-- **Java Collections Framework**: Usage and implementation of collections like ArrayList, HashMap, etc.
+- **Java Collections Framework**: Usage and implementation of collections like `ArrayList`, `HashMap`, etc.
 
 ## Installation
 To run the programs in this repository:
@@ -46,3 +49,6 @@ This project is open-source and available under the MIT License. See the [LICENS
 
 ## Contact
 For any inquiries or feedback, please contact [Pavan Kumar Siddabathula](mailto:pavansiddabathula@gmail.com).
+
+---
+
